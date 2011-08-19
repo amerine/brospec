@@ -1,0 +1,4 @@
+doc
+pkg
+*.tar.gz
+.rvmrc
